@@ -37,10 +37,3 @@ The Red Cotton Flower canvas has been rebuilt:
 
 Author: Yizhang Mu (he/him)
 Columbia University GSAPP
-
-
-## Final V5 Visual Upgrade
-
-- Global palette rebuilt with old paper, deep green-black, muted brass, and dark seal red.
-- Final 3D canvas upgraded from Archive Lantern to Memory Shrine.
-- The Memory Shrine uses layered paper orbits, brass rings, light panels, red seals, dust particles, fog, and mouse-responsive lighting.
